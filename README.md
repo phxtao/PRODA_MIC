@@ -3,7 +3,7 @@ Code used in the article Microbial carbon use efficiency promotes global soil ca
 
 Author: Feng Tao
 
-Institution: Department of Earth System Science, Tsinghua University
+Institute: Department of Earth System Science, Tsinghua University
 
 For any questions and other requists please contact: phx.tao@gmail.com or taof18@mails.tsinghua.edu.cn
 
