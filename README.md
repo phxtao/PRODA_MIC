@@ -1,5 +1,5 @@
 # PRODA_MIC
-Code used in the article Microbial carbon use efficiency promotes global soil carbon storage
+Code used in the article Microbial carbon use efficiency promotes global soil carbon storage: https://www.nature.com/articles/s41586-023-06042-3 
 
 Author: Feng Tao
 
